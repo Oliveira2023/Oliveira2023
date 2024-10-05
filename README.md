@@ -1,6 +1,6 @@
 # Luciano Oliveira
 
-Meu nome é Luciano, iniciei meus estudos na área de TI em 2022, desde então tenho focados meus esforços no aprendizado. Sou de Minas, mas moro em São Paulo. Faço Engenharia de Software, com previsão de termino no 2 semestre de 2025. Também já realizei alguns cursos extras como Javascript, HTMLS e CSS, PHP, React e SQL. 
+Meu nome é Luciano, iniciei meus estudos na área de TI em 2022, desde então tenho focados meus esforços no aprendizado. Sou de Minas, mas moro em São Paulo. Faço Engenharia de Software, com previsão de termino no 2 semestre de 2025. Também já realizei alguns cursos extras como Javascript, Java HTMLS e CSS, PHP, React e SQL. Com direcionamento para a atuação full stack, com Java e node no Back-end e Javascript no Front-end.
 
 ## Conecte-se comigo
 [![link LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-oliveira-87a17682/)
